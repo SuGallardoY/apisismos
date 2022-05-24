@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+
+   
+h1{
+    
+    text-align: center;
+    margin: 20px;
+};
+
+.head {  
+  text-align: center;
+  padding-bottom: 10px;
+  background-color: rgb(98, 243, 212);
+
+};
